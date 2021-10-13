@@ -431,6 +431,7 @@ div.valid-feedback {
   main>form>legend {
     font-size: 2.5em;
     color: rgb(233, 229, 229);
+    text-align: center;
   }
   main>form>label {
     font-size: 1.4em;
